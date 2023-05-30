@@ -1,0 +1,6 @@
+test_run_dir
+project
+target
+.vscode
+.metals
+.bsp
